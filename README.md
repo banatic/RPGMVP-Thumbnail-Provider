@@ -46,3 +46,7 @@ Only `.rpgmvp` files following the standard encrypted PNG format are supported.
 Corrupt or nonstandard RPGMVP files will not generate thumbnails.
 
 No support for context menu preview or animated thumbnails.
+
+## Credits
+
+- Decryption logic inspired by [Petschko/RPG-Maker-MV-Decrypter](https://github.com/Petschko/RPG-Maker-MV-Decrypter)
